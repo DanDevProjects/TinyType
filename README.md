@@ -198,7 +198,7 @@ TinyType is intentionally designed to have a very small footprint and avoid unne
 
 ### Where should I report problems?
 
-Use the repository's [Issues](../../issues) section to report bugs and request features.
+Use the repository's Report_bug.md to report bugs and request features.
 
 ---
 
