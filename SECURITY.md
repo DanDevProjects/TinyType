@@ -2,14 +2,12 @@
 
 ## Supported Versions
 
-Currently, TinyType has only 1.0. We will fix bugs through 1.1 to 1.9.
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0     | ✅                 |
-| 1.x     | :white_check_mark: |
-**All versions are supported and always will be.**
+Currently, there is only version 1.0. We will continue to fix bugs through versions. 1.0 will be supported until October 2028 due to Python 3.12 ending support.
 
+| Version | Supported          | End of life |
+| ------- | ------------------ |--------------
+| 1.0     | :white_check_mark: | October 2028|
 ## Reporting a Vulnerability
-To report a bug or a vulnerability, you're welcome to comment in our General Discussion.
-also feel free to suggest ideas, features and other things you would like.
-Thanks for checking TinyType out!
+
+To report a problem, you are welcome to post your problem to our General Discussions.
+You are also free to post ideas, features and other things to the discussion.
